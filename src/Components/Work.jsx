@@ -23,6 +23,8 @@ const Work = () => {
                           </Typography>
                           <Typography variant = "body2" color="text.secondary">
                             An Online Store to Buy Everything  
+                            <button> Live Project  </button>
+                            <button> Source Code  </button>
                           </Typography>
                         </CardContent>
                       </Card>
@@ -39,6 +41,8 @@ const Work = () => {
                           </Typography>
                           <Typography variant = "body2" color="text.secondary">
                               Connect With Friends to Share and Like Posts
+                              <button> Live Project  </button>
+                            <button> Source Code  </button>
                           </Typography>
                         </CardContent>
                       </Card>
@@ -55,6 +59,8 @@ const Work = () => {
                           </Typography>
                           <Typography variant = "body2" color="text.secondary">
                               A Web-App that helps you to Buy Courses with Subscription
+                              <button> Live Project  </button>
+                             <button> Source Code  </button>
                           </Typography>
                         </CardContent>
                       </Card>

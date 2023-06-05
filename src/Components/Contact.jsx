@@ -14,7 +14,7 @@ const Contact = () => {
            <span style  = {{fontSize:'29px'}}> Let's Connect  </span>
         </div>
 
-         <div className="connect-section" style = {{cursor:'pointer'}}>
+         <div className="connect-section-2" style = {{cursor:'pointer'}}>
 
                 <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
                     <Grid item xs={6}>
